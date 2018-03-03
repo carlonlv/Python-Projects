@@ -1,7 +1,5 @@
 """
 Code for compressing and decompressing using Huffman compression.
-Author: Yuan Xu
-Dates: 2017-03-20
 """
 
 from nodes import HuffmanNode, ReadNode
