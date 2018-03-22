@@ -522,8 +522,8 @@ def improve_tree(tree, freq_dict):
 
 
 if __name__ == "__main__":
-    import python_ta
-    python_ta.check_all(config="huffman_pyta.txt")
+    #import python_ta
+    #python_ta.check_all(config="huffman_pyta.txt")
     import doctest
     doctest.testmod()
 
