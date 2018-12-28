@@ -2,5 +2,5 @@ The problem of ﬁnding a best-ﬁt line to a set of points using Linear Program
 Speciﬁcally if the ﬁle input.txt contains  
 (0,0),(1,1)  
 we can execute  
-./bestﬁt.py input.txt and receive the output 
+./bestﬁt.py input.txt and receive the output  
 1,0; that is, y = 1·x + 0
