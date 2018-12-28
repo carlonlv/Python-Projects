@@ -1,4 +1,4 @@
-We are trying to decrypt a message written to you in a language where you know all the words. Unfortunately the sender has forgotten to put any spaces into the message. So if the language includes the words abra, cada, c, ad and the message is ”abracadabra”, the program splits it into ”abra c ad abra”. The set of words must be given on the ﬁrst line of input (comma-separated), and the input string on the second. So if the ﬁle input.txt contains
+We are trying to decrypt a message written to you in a language where you know all the words. Unfortunately the sender has forgotten to put any spaces into the message. So if the language includes the words abra, cada, c, ad and the message is ”abracadabra”, the program splits it into ”abra c ad abra”. The set of words must be given on the ﬁrst line of input (comma-separated), and the input string on the second. So if the ﬁle input.txt contains  
 he,head,admonished  
 headmonished  
 we will expect the output   
